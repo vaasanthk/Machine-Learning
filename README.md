@@ -9,6 +9,6 @@ In probability theory, a normal (or Gaussian or Gauss or Laplace–Gauss) distri
 <img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
 
 <img src="https://latex.codecogs.com/svg.latex?\Large&space;x={\frac {1}{\sigma {\sqrt {2\pi }}}}e^{-{\frac {1}{2}}\left({\frac {x-\mu }{\sigma }}\right)^{2}}} 
-" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
+" title="\Large x={\frac {1}{\sigma {\sqrt {2\pi }}}}e^{-{\frac {1}{2}}\left({\frac {x-\mu }{\sigma }}\right)^{2}}}" />
 
 
